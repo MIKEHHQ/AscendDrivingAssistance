@@ -1,0 +1,14 @@
+[server]
+port=8888
+address ="192.168.1.2"
+# address ="5.2.0.11"
+[browser]
+serverAddress ="192.168.1.2"
+# serverAddress ="127.20.10.7"
+[theme]
+primaryColor="#FF4B4B"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+base="dark"
+font="serif"
